@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class ejercicio13 {
     public static void main(String[] args) {
+
+        ///////////// Calculadora de Préstamo ////////////////
+
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese el monto del préstamo: ");
         double L = entrada.nextDouble();

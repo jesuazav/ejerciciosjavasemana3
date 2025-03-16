@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ejercicio12 {
     public static void main(String[] args) {
         //////////////////////// Categoria de edad//////////////////
+        
         Scanner entrada= new Scanner(System.in);
         System.out.println("Ingrese su edad: ");
         int edad=entrada.nextInt();

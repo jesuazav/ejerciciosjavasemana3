@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class ejercicio16 {
     public static void main(String[] args) {
+
+       ////////////// Operador Ternario ////////////
+
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese la edad: ");
         int edad = entrada.nextInt();

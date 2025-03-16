@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class ejercicio15 {
     public static void main(String[] args) {
+
+        /////////////// Calculadora de Descuento por Lealtad /////////////7
+
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese los años como cliente: ");
         int añosCliente = entrada.nextInt();

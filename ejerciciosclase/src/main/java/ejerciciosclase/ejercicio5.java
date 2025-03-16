@@ -2,6 +2,9 @@ package ejerciciosclase;
 import java.util.Scanner;
 public class ejercicio5 {
     public static void main(String[] args) {
+        
+        ///////// Verificador de numero /////////////
+
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese un numero:");
         int numero=entrada.nextInt();

@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class ejercicio20 {
     public static void main(String[] args) {
+
+        ///////////// Validador de Triángulo //////////////
+
         Scanner entrada = new Scanner(System.in);
-        // Determinar si tres longitudes pueden formar un triángulo y clasificarlo
         System.out.println("Ingrese el primer lado del triángulo: ");
         double lado1 = entrada.nextDouble();
         System.out.println("Ingrese el segundo lado del triángulo: ");

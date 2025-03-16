@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class ejercicio19 {
     public static void main(String[] args) {
+
+       ////////////// Calculadora de Notas Ponderadas /////////////
+
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese la nota de exámenes: ");
         double examenes = entrada.nextDouble();

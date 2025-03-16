@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class ejercicio17 {
     public static void main(String[] args) {
+
+        ////////////// Operaciones Combinadas /////////////////
+
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese el primer número: ");
         double num1 = entrada.nextDouble();

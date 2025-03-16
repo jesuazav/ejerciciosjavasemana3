@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class ejercicio10 {
     public static void main(String[] args) {
+
+         ////////////////////// calculadora simple/////////////////////////
+
          Scanner entrada = new Scanner(System.in);
-        //////////////////////Ejercicio 10 calculadora simple/////////////////////////
            
         System.out.println("Ingrese uno de los siguientes operadores para realizar la operacion: +,-,*,/ ");
         String operator=entrada.nextLine();

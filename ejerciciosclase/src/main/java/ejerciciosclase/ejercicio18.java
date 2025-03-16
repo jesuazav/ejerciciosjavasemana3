@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class ejercicio18 {
     public static void main(String[] args) {
+
+        //////////// Verificador de Múltiplos ///////////
+
         Scanner entrada= new Scanner(System.in);
         System.out.println("Ingrese un número para verificar múltiplos: ");
         int numMultiplo = entrada.nextInt();
