@@ -26,6 +26,7 @@ public class ejercicio8 {
 
         System.out.println("Días, horas y minutos:");
         System.out.println(dias + " días, " + horasRestantes + " horas y " + minutosRestantes + " minutos");
+
     }
 
 }

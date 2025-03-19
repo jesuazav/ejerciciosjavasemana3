@@ -8,7 +8,7 @@ public class ejercicio2 {
         /////////// Número Par o Impar///////////////
 
         Scanner entrada = new Scanner(System.in);
-        System.out.print("Ingrese un número para verificar si es par o impar: ");
+        System.out.println("Ingrese un número para verificar si es par o impar: ");
         int num = entrada.nextInt();
 
         if (num % 2 == 0) {

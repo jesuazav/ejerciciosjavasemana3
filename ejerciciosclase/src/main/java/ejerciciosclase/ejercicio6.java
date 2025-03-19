@@ -15,6 +15,8 @@ public class ejercicio6 {
         double celcius=(tf-32)*5/9;
         System.out.printf("Aqui tienes tu conversion equivalente en la escala de Celsius:  °C %.2f%n",celcius);
         System.out.printf("Aqui tienes tu conversion equivalente en la escala de Fahrenheit: °F %.2f%n  ",fahrenheit);
+        
+    
     }
     
 }
